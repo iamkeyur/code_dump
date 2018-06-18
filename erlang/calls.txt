@@ -1,0 +1,17 @@
+{john, [jill,joe,bob]}.
+{jill, [bob,joe,bob]}.
+{sue,  [jill,jill,jill,bob,jill]}.
+{bob,  [john]}.
+{joe,  [sue]}.
+{keyur, [john]}.
+{meet, [joe,sue]}.
+{patel, [keyur]}.
+{bill, [joe,sue]}.
+{yeah, [keyur,jill]}.
+{kk, [keyur,joe]}.
+{kkk, [keyur,joe]}.
+{kkkk, [keyur,joe]}.
+{kkkkk, [keyur,joe]}.
+{kkkkkk, [keyur,joe]}.
+{kkkkkkkk, [keyur,joe]}.
+
